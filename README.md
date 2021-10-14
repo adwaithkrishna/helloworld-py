@@ -1,2 +1,2 @@
 # helloworld-py
-Just starting something
+This repo is just me trying to figure out how to use this git and github thing
