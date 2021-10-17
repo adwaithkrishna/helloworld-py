@@ -5,4 +5,4 @@ Just starting something
 Prints "hello world". Thats it.
 
 ## Requirements
-Make sure you have Python 3.0 or higher installedd
+Make sure you have Python 3.0 or higher installed
